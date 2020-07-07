@@ -3,10 +3,7 @@
   "private": false,
   "description": "A simple starter to build a blazing fast Shopify store quickly with Gatsby",
   "version": "0.1.0",
-  "author": "Alexander Hörl <alexander.horl2@live.de>",
-  "engines": {
-    "node": "=> 10.13 < 10.11"
-  },
+  "author": "Glenn Lanzer III <lanzertrey@gmail.com>",
   "dependencies": {
     "@emotion/core": "^10.0.22",
     "@emotion/styled": "^10.0.22",
@@ -35,6 +32,7 @@
   "keywords": [
     "gatsby",
     "shopify",
+    "netlify",
     "ecommerce",
     "store",
     "shop"
